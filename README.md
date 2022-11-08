@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Blockchain Development
+🌱 I’m currently a Smart contract auditor
 
 
 ## 🌐 Socials:
