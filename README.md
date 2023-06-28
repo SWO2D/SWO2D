@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working as a Blockchain security auditor
+Blockchain Security Auditor 💎
+@code4rena Warden 🐺
 
 
 ## 🌐 Socials:
