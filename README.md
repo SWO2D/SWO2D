@@ -1,6 +1,5 @@
 # 💫 About Me:
 Blockchain Security Auditor 💎
-@code4rena Warden 🐺
 
 
 ## 🌐 Socials:
