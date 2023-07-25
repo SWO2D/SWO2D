@@ -1,5 +1,5 @@
 # 💫 About Me:
-Founder And CEO of TuringTorch AI
+Founder And CEO of TuringTorch AI | 
 Blockchain Security Auditor 💎
 
 
